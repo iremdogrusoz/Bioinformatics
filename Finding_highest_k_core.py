@@ -1,5 +1,5 @@
-#İrem Doğrusöz-2284255
-#HW4- Finding the Highest K-Core Subgraph in a Protein-Protein Interaction Network
+
+#Finding the Highest K-Core Subgraph in a Protein-Protein Interaction Network
 
 import networkx as nx #Python software package for study of complex networks
 from sortedcontainers import SortedDict #Sorted dict keys are maintained in sorted order.
